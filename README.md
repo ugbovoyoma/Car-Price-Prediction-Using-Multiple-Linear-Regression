@@ -38,7 +38,7 @@ Label encoding of categorical variables and standardisation of numerical feature
 
 Gradient Boosting’s non-linear modeling lifted R² from 0.843 to 0.900, demonstrating significant performance gains.
 
-Future Work
+# Future Work
 Additional ensemble models: Evaluate Random Forest, XGBoost and LightGBM against the 0.843 baseline.
 
 Feature engineering: One-hot encode high-cardinality categories (e.g. CarName), add interaction/polynomial terms, and experiment with a log transform on price.
